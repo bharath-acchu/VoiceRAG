@@ -1,0 +1,16 @@
+llama-index 
+llama-index-vector-stores-chroma 
+llama-index-embeddings-google 
+llama-index-embeddings-huggingface 
+llama-index-llms-google-genai
+livekit-plugins-noise-cancellation~=0.2
+livekit-agents[google]~=1.0
+cartesia
+livekit
+livekit-agents
+livekit-api
+livekit-plugins-assemblyai
+livekit-plugins-cartesia
+livekit-plugins-silero
+livekit-protocol
+python-dotenv
